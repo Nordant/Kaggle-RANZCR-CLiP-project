@@ -5,7 +5,7 @@ Author's profiles: [Kaggle](https://www.kaggle.com/maksymshkliarevskyi), [Linked
 -
 **This repository contains all of my notebooks created by this project.**
 
-Author's competition notebooks: https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/notebooks?competitionId=23870&sortBy=voteCount&tab=profile
+Author's notebooks: https://www.kaggle.com/maksymshkliarevskyi/notebooks
 
 **Description of the competition on Kaggle:**
 -
