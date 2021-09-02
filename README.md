@@ -1,6 +1,12 @@
 # Kaggle-RANZCR-CLiP-project
 Classify the presence and correct placement of tubes on chest x-rays to save lives
 
+# The project has 4 parts:
+- Xception part - score 0.95320 (`ranzcr-xception-tpu-baseline.ipynb`, `ranzcr-xception-tpu-prediction.ipynb`)
+- EfficientNetB7 part - score 0.95609 (`effnetb7-tpu.ipynb`, `effnetb7-tpu-prediction.ipynb`)
+- EfficientNetB4_CV part - score 0.95178 (`ranzcr-efb4-cv-tr.ipynb`, `ranzcr-efb4-cv-pr.ipynb`)
+- Final ensemble - score 0.96117 (`ranzcr-ensemble.ipynb`)
+
 Author's profiles: [Kaggle](https://www.kaggle.com/maksymshkliarevskyi), [LinkedIn](https://www.linkedin.com/in/maksym-shkliarevskyi-8835581b1), [ResearchGate](https://www.researchgate.net/profile/Maksym_Shkliarevskyi)
 -
 **This repository contains all of my notebooks created by this project.**
